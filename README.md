@@ -25,7 +25,7 @@ This algorithm was used in my ORIE 3120 final presentation at Cornell University
 
 
 https://user-images.githubusercontent.com/90010213/180003370-a53d3e35-04bf-45b5-90fa-2609d7a8ffa0.mp4
- 
+
 
 https://user-images.githubusercontent.com/90010213/180003511-a95abdcc-9286-4157-a5e9-7ab50bc6d003.mp4
 
